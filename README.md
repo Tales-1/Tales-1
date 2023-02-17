@@ -20,7 +20,6 @@ I will also be learning & applying Tailwindcss, Redux and Typescript.js for the 
 This is a project I decided to code 2 months after learning JavaScript. It was quite tough but extremely rewarding at the same time given that I did not refer to any tutorials. It is one of my proudest accomplishments as, at the time, I was an amateur with no previous knowledge of building web applications.
 
 ![Project 2 Screenshot](https://user-images.githubusercontent.com/84051594/204838673-8370464d-04d2-4d63-8515-1877626897d5.png)
-[Project 3 Name](Link to the project)
 
 ##Skills
 
