@@ -21,7 +21,7 @@ This is a project I decided to code 2 months after learning JavaScript. It was q
 
 ![Project 2 Screenshot](https://user-images.githubusercontent.com/84051594/204838673-8370464d-04d2-4d63-8515-1877626897d5.png)
 
-##Skills
+## Skills
 
 - HTML
 - CSS
