@@ -9,9 +9,9 @@ Since November 2021, I have been immersing myself in the world of web developmen
 ## Featured Projects
 [E-Commerce Website](https://github.com/Tales-1/e-shop-vite-build)
 
-The aim of this website is to make a fake virtual store to put my learning to use. Having just learnt React and the fundamentals I saw this as a great opportunity test my comprehension of the React ecosystem.
+The aim of this website was to make a fake virtual store to put my learning to use. Having just learnt React and the fundamentals I saw this as a great opportunity test my comprehension of the React ecosystem.
 
-I will also be learning & applying Tailwindcss, Redux and Typescript.js for the first time.
+I also learnt & applied Tailwindcss, Redux and Typescript.js for the first time.
 
 ![Project 1 Screenshot](https://user-images.githubusercontent.com/84051594/204839097-23b2dc51-ff27-4f8c-84c7-5f7858573661.png)
 
